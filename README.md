@@ -114,3 +114,7 @@ git push origin main
 ### Git: git checkout — Switch branches
 *Usage:* git checkout <branch>  
 Moves to a different branch.
+
+### Linux: top — Show running processes
+*Usage:* top  
+Displays CPU, memory, and process usage in real-time.
