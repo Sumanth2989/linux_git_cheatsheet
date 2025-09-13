@@ -22,3 +22,12 @@ git checkout branch     # Switch to branch
 git merge branch        # Merge branch into current
 git push origin main    # Push changes to remote
 
+### Linux: ls
+*Usage:* ls -la  
+Lists files in a directory.  
+- -l = long format  
+- -a = show hidden files  
+
+*Example:*
+```bash
+ls -la /etc
