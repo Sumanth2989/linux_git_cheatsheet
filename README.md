@@ -94,3 +94,11 @@ git clone git@github.com:user/repo.git
 **Example:**
 ```bash
 git add README.md
+
+
+**Usage:** `git commit -m "meaningful message"`  
+**Example:**
+```bash
+git commit -m "feat: add grep section"
+
+
