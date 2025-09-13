@@ -47,4 +47,18 @@ pwd
 cd ~/projects
 cd ..
 
+### RM - Remove
+*Usage:* rm -rf <path>  
+*Warning:* Permanently deletes without prompt; double-check the path.  
+*Example:*
+```bash
+rm -rf old_folder/
 
+
+
+### Linux: cp — Copy files/directories
+*Usage:* cp <src> <dst> • cp -r <dir> <dst>  
+*Example:*
+```bash
+cp notes.txt backup_notes.txt
+cp -r src/ backup/
