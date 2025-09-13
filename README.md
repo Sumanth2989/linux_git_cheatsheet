@@ -74,4 +74,7 @@ mv file.txt docs/file.txt
 ```bash
 cat README.md
 
-
+*Usage:* git init • git init -b main  
+*Example:*
+```bash
+git init -b main
