@@ -78,3 +78,10 @@ cat README.md
 *Example:*
 ```bash
 git init -b main
+
+**Usage:** `git clone <ssh-or-https-url>`  
+**Example:**
+```bash
+git clone git@github.com:user/repo.git
+
+
