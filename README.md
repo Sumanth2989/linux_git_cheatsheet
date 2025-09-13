@@ -110,3 +110,7 @@ git log --oneline --graph --decorate --all
 **Example:**
 ```bash
 git push origin main
+
+### Git: git checkout — Switch branches
+*Usage:* git checkout <branch>  
+Moves to a different branch.
