@@ -101,4 +101,7 @@ git add README.md
 ```bash
 git commit -m "feat: add grep section"
 
-
+*Usage:* git log --oneline • git log --oneline --graph --decorate --all  
+*Example:*
+```bash
+git log --oneline --graph --decorate --all
