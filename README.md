@@ -39,3 +39,12 @@ ls -la /etc
 *Example:*
 ```bash
 pwd
+
+### Linux: cd — Change directory
+*Usage:* cd <path> • cd .. (up) • cd ~ (home)  
+*Example:*
+```bash
+cd ~/projects
+cd ..
+
+
