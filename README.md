@@ -84,4 +84,6 @@ git init -b main
 ```bash
 git clone git@github.com:user/repo.git
 
-
+### Git: `git status` — Show repository status
+**Usage:** `git status`  
+**Shows:** Current branch, staged/unstaged changes, untracked files.
